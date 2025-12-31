@@ -1,0 +1,15 @@
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net8.0/AddTwoNumbers
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net8.0/AddTwoNumbers.deps.json
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net8.0/AddTwoNumbers.runtimeconfig.json
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net8.0/AddTwoNumbers.dll
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net8.0/AddTwoNumbers.pdb
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/AddTwoNumbers.AssemblyInfoInputs.cache
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/AddTwoNumbers.AssemblyInfo.cs
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/AddTwoNumbers.csproj.CoreCompileInputs.cache
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/AddTwoNumbers.sourcelink.json
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/AddTwoNumbers.dll
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/refint/AddTwoNumbers.dll
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/AddTwoNumbers.pdb
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/AddTwoNumbers.genruntimeconfig.cache
+/home/jan/Desktop/LeetcodeC#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net8.0/ref/AddTwoNumbers.dll
