@@ -1,0 +1,14 @@
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/bin/Debug/net8.0/FindMedian
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/bin/Debug/net8.0/FindMedian.deps.json
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/bin/Debug/net8.0/FindMedian.runtimeconfig.json
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/bin/Debug/net8.0/FindMedian.dll
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/bin/Debug/net8.0/FindMedian.pdb
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/obj/Debug/net8.0/FindMedian.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/obj/Debug/net8.0/FindMedian.AssemblyInfoInputs.cache
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/obj/Debug/net8.0/FindMedian.AssemblyInfo.cs
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/obj/Debug/net8.0/FindMedian.csproj.CoreCompileInputs.cache
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/obj/Debug/net8.0/FindMedian.dll
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/obj/Debug/net8.0/refint/FindMedian.dll
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/obj/Debug/net8.0/FindMedian.pdb
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/obj/Debug/net8.0/FindMedian.genruntimeconfig.cache
+/home/jan/Desktop/LeetcodeC#/FindMedian/FindMedian/obj/Debug/net8.0/ref/FindMedian.dll
