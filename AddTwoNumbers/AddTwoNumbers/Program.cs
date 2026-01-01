@@ -1,4 +1,6 @@
-﻿public class ListNode {
+﻿using System.Numerics;
+
+public class ListNode {
     public int val;
     public ListNode next;
     public ListNode(int val=0, ListNode next=null) {
@@ -46,7 +48,7 @@ public class Solution {
         }
         string reversed1 = new string(list1.Reverse().ToArray());
         string reversed2 = new string(list2.Reverse().ToArray());
-        int sum =int.Parse(reversed1) +  int.Parse(reversed2);
+        BigInteger sum = BigInteger.Parse(reversed1) + BigInteger.Parse(reversed2);
         
         char[] parts = sum.ToString().Reverse().ToArray();
         if (parts.Length > 0)
